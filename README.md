@@ -10,3 +10,8 @@
 Всё перечисленное отображается в виде текста и - по желанию пользователя - озвучивается вслух. (Вдохновение - ДЖАРВИС в фильме "Железный человек").
 
 Код: Olga Chernyshenko, использованы дизайн Material 3 и иконка с сайта UXWing.
+
+![image](https://github.com/user-attachments/assets/90ffb16e-13d7-485d-8e8d-888851230479) ![image](https://github.com/user-attachments/assets/34a6a97e-7d0a-444e-833f-398db65f6720)
+
+
+
